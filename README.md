@@ -16,12 +16,3 @@ In this game, the player moves a character across the screen to avoid obstacles 
 ## 🔧 Installation & Usage
 Clone the repository and run the script in Python:
 
-```bash
-# Clone the repository
-git clone https://github.com/YOUR-USERNAME/pixel-show.git
-
-# Navigate to the project directory
-cd pixel-show
-
-# Run the game
-python pixel_show.py
